@@ -48,7 +48,5 @@
 > Integer x3 = new Integer(17);
 > System.out.println(x1 == x2);	// true
 > System.out.println(x1 == x3);	// false
-> 
-> 
 > ```
 
